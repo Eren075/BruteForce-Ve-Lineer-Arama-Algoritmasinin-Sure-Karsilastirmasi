@@ -1,0 +1,1 @@
+# BruteForce-Ve-Lineer-Arama-Algoritmasinin-Sure-Karsilastirmasi
